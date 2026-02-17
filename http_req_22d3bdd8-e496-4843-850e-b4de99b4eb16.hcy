@@ -1,0 +1,17 @@
+GET /doc/front/28b6e471e4b04204ba955f5c85886ae0.do HTTP/1.1
+Host: jtzp-doc.webtrn.cn
+Connection: keep-alive
+sec-ch-ua: "Not(A:Brand";v="8", "Chromium";v="144", "Android WebView";v="144"
+sec-ch-ua-mobile: ?1
+sec-ch-ua-platform: "Android"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Linux; Android 16; MAA-AN10 Build/HONORMAA-AN10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/144.0.7559.109 Mobile Safari/537.36 whatyApp whatyApiApp
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+X-Requested-With: com.whaty.qyJTYX
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: https://jtzp.webtrn.cn/
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

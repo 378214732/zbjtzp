@@ -1,0 +1,16 @@
+POST /iuap-yonbuilder-mobile/v2/AM_Service_API/GetCustomLaunchInfo_s HTTP/1.1
+X-APICloud-AppId: A6121061465418
+X-APICloud-AppKey: b6cf2a6ec74fb8bf4b89da8f6f78d6c582b4c992
+Accept: */*
+X-APICloud-Version: v1
+User-Agent: Mozilla/5.0 (Linux; Android 16; MAA-AN10 Build/HONORMAA-AN10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/144.0.7559.109 Mobile Safari/537.36 whatyApp whatyApiApp
+Connection: Keep-Alive
+X-APICloud-UUID: 2b45179258334ceaaee684b8a28202ae
+Charset: UTF-8
+Accept-Encoding: gzip
+X-APICloud-Platform: 0
+Content-Type: text/plain; charset=UTF-8
+Host: iuap-yonbuilder-mamservice.yyuap.com
+Content-Length: 44
+
+K0xUtfXkNhSwIQK29KvXWytrzZl7SePOwO8Ywpxt7Mw=

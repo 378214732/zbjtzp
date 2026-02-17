@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: Web Server
+Date: Tue, 17 Feb 2026 07:12:56 GMT
+Content-Type: text/plain;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Pragma: No-cache
+Cache-Control: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Access-Control-Allow-Headers: range
+
+34
+{"data":{"errorCode":"1","errorMsg":"登陆成功"}}
+0
+

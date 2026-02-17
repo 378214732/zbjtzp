@@ -1,0 +1,21 @@
+POST /mobile/userInfo_getLikes.json HTTP/1.1
+Host: jtzp.webtrn.cn
+Connection: keep-alive
+Content-Length: 65
+sec-ch-ua-platform: "Android"
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Linux; Android 16; MAA-AN10 Build/HONORMAA-AN10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/144.0.7559.109 Mobile Safari/537.36 whatyApp whatyApiApp
+Accept: application/json, text/javascript, */*; q=0.01
+sec-ch-ua: "Not(A:Brand";v="8", "Chromium";v="144", "Android WebView";v="144"
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+sec-ch-ua-mobile: ?1
+Origin: https://jtzp.webtrn.cn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://jtzp.webtrn.cn/app/sites/typxNew/resource/resource_doc.html?resourceId=5382
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: webtrn=12dd31581b9805b638501072844c0bff; JSESSIONID=7BF85B27252D7A5D7B64AE8EAE2F3A67
+
+data=num&entityId=5382&loginType=10cb4c5f203e43669d748cbee14ad3cd

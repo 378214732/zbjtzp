@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: Web Server
+Date: Tue, 17 Feb 2026 07:13:08 GMT
+Content-Type: text/plain;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Pragma: No-cache
+Cache-Control: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Access-Control-Allow-Headers: range
+
+17a
+{"errorMessage":"成功","page":{"searchItem":{"loginId":"30162642"},"orderBy":"0","items":[{"info":[{"uname":"张兴","pname":"霸州西桥梁检养工区","workName":"铁路桥隧工","imgurl":"/resbase/sites/zzrailway/data/uploads/avater/8ac0a22d910de80d0191123f846414ac/pic/7768fdd6c55e4fc596725cdcbc5ea46c.jpeg"}]}],"totalCount":0,"curPage":1,"pageSize":1},"errorCode":"0"}
+0
+

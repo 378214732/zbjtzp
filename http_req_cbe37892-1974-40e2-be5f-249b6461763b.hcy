@@ -1,0 +1,19 @@
+GET /doc/incoming/lt/application/msword/20250809/1754737882443-G5QP6.pdf HTTP/1.1
+Host: jtzp-doc.webtrn.cn
+Connection: keep-alive
+sec-ch-ua-platform: "Android"
+User-Agent: Mozilla/5.0 (Linux; Android 16; MAA-AN10 Build/HONORMAA-AN10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/144.0.7559.109 Mobile Safari/537.36 whatyApp whatyApiApp
+sec-ch-ua: "Not(A:Brand";v="8", "Chromium";v="144", "Android WebView";v="144"
+authority: 6782e88f70df16a608335350fa0c873f
+sec-ch-ua-mobile: ?1
+Accept: */*
+X-Requested-With: com.whaty.qyJTYX
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://jtzp-doc.webtrn.cn/doc/front/28b6e471e4b04204ba955f5c85886ae0.do
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+If-None-Match: W/"7833-1754737893000"
+If-Modified-Since: Sat, 09 Aug 2025 11:11:33 GMT
+

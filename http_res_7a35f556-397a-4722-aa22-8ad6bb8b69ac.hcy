@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: Web Server
+Date: Tue, 17 Feb 2026 07:12:54 GMT
+Content-Type: text/plain;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Pragma: No-cache
+Cache-Control: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Access-Control-Allow-Headers: range
+
+27c
+{"errorMessage":"成功","page":{"searchItem":{},"orderBy":"0","items":[{"info":[{"id":"39acc7e52d5211ebb6410050569987ba","code":"新动态","FK_SITE_ID":"null","name":"新动态"},{"id":"54351f2515af11ea973e801844e81850","code":"微课堂","FK_SITE_ID":"null","name":"微课堂"},{"id":"5438414d15af11ea973e801844e81850","code":"规章池","FK_SITE_ID":"null","name":"规章池"},{"id":"543a4bb915af11ea973e801844e81850","code":"学案例","FK_SITE_ID":"null","name":"学案例"},{"id":"543c973b15af11ea973e801844e81850","code":"综合","FK_SITE_ID":"null","name":"综合"}]}],"totalCount":5,"curPage":1,"pageSize":20},"errorCode":"0"}
+0
+

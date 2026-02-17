@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: Web Server
+Date: Tue, 17 Feb 2026 07:13:07 GMT
+Content-Type: text/plain;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Pragma: No-cache
+Cache-Control: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Access-Control-Allow-Headers: range
+
+1b3
+{"data":[{"site":{"siteUrl":"https://jtzp-res.webtrn.cn/","id":"ff80808154efdd490154efeef5ac0001","name":"北京局集团公司","domain":"jtzp.webtrn.cn","showType":"0","code":"zzrailway"},"encodeLoginId":"E0938112D2593171","loginId":"30162642","isSuperUser":"0","trueName":"张兴","nickName":"","chuShiName":"保定工务段","loginType":"10cb4c5f203e43669d748cbee14ad3cd"}],"errorCode":"1","pwdType":"ok","errorMsg":"登录成功"}
+0
+

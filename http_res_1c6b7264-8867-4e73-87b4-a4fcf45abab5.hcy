@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: Web Server
+Date: Tue, 17 Feb 2026 07:13:14 GMT
+Content-Type: text/plain;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Pragma: No-cache
+Cache-Control: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Access-Control-Allow-Headers: range
+
+219
+{"errorMessage":"成功","page":{"searchItem":{"resourceId":"5382"},"orderBy":"0","items":[{"info":[{"videoImg":"","videoTime":"","filePath":"/incoming/lt/application/msword/20250809/1754737882443-G5QP6.doc","yunpanPath":"","type":"doc","uploadUser":"31005472","content":"","id":"5382","fileSize":"10240","title":"3421","minWatchTime":"2","description":"","docUrl":"https://jtzp-doc.webtrn.cn/doc/front/28b6e471e4b04204ba955f5c85886ae0.do","uploadDate":"2025-08-09 19:13:30"}]}],"totalCount":1,"curPage":1,"pageSize":10},"errorCode":"0"}
+0
+

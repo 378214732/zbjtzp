@@ -1,0 +1,8 @@
+POST /cms/A6121061465418Android/index.htm HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 0
+Host: software.webtrn.cn
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/3.10.0
+
