@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: Web Server
+Date: Tue, 17 Feb 2026 07:13:11 GMT
+Content-Type: text/plain;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Pragma: No-cache
+Cache-Control: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Access-Control-Allow-Headers: range
+
+3f7
+{"errorMessage":"成功","page":{"searchItem":{"loginId":"30162642"},"orderBy":"0","items":[{"info":[{"id":"8ac095a38c8bcef6018cf7d2d3b62683","title":"2024年春运本岗位人员安全和业务知识培训","publishDate":"2024-01-11 17:20","note":"<p>各车间：<\/p><p>根据集团公司电报要求，全体在岗职工要参加春运安全和业务知识培训考试，相关复习资料已传各车间兼职教师。<\/p><p>考试形式：职工利用“京铁职培”<span style=\"text-wrap: wrap;\">手机<\/span>App进行考试；<\/p><p>考试时间：1月11日至1月17日10：00，80分合格。<br/><\/p><p><span style=\"text-wrap: wrap;\">京铁职培<\/span>APP初始密码为：Bjzpb@22641，用户名为内网考试平台中的用户名，如找不到请联系车间兼职教师。<\/p>","isRead":"1"},{"id":"8ac095a187f099800187fb3c089b0045","title":"测试","publishDate":"2023-05-08 20:00","note":"<p>测试<br/><\/p>","isRead":"1"}]}],"totalCount":2,"curPage":1,"pageSize":10},"errorCode":"0"}
+0
+

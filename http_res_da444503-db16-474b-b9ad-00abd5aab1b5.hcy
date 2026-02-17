@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: Web Server
+Date: Tue, 17 Feb 2026 07:12:54 GMT
+Content-Type: text/plain;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Pragma: No-cache
+Cache-Control: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Access-Control-Allow-Headers: range
+
+c6
+{"errorMessage":"成功","page":{"searchItem":{"loginId":"30162642"},"orderBy":"0","items":[{"info":[{"LOGIN_ID":"30162642","score":"2"}]}],"totalCount":0,"curPage":1,"pageSize":20},"errorCode":"0"}
+0
+

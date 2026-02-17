@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: Web Server
+Date: Tue, 17 Feb 2026 07:13:14 GMT
+Content-Type: text/plain;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Pragma: No-cache
+Cache-Control: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Access-Control-Allow-Headers: range
+
+f7
+{"errorMessage":"成功","page":{"searchItem":{"startDate":"2026-2-17 00:00:00","loginId":"30162642","resourceId":"5382","endDate":"2026-2-17 23:59:59"},"orderBy":"0","items":[{"info":[]}],"totalCount":0,"curPage":1,"pageSize":10},"errorCode":"0"}
+0
+
